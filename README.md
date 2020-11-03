@@ -1,5 +1,7 @@
 # tDNUserDirectory
 
+![Test Image 1](src\FitnessTrackerscreenshot.PNG)
+
 # React User Directory
 
 ## Description
