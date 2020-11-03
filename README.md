@@ -2,6 +2,8 @@
 
 ![UserDirectory](https://user-images.githubusercontent.com/64296826/98031088-fc230c80-1ddf-11eb-989c-adfe011d394e.PNG)
 
+Click here to view demo https://limitless-eyrie-81045.herokuapp.com/
+
 # React User Directory
 
 ## Description
